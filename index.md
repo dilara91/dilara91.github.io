@@ -17,7 +17,7 @@ My research interests are;
 *  social networks and computing
 *  health informatics
 
-I work as software engineer at [Pointr](http://www.pointrlabs.com) where we tackle the indoor navigation problems.
+I work as software engineer at [Pointr](http://www.pointrlabs.com) where we tackle the indoor navigation problem.
 As it is known, GPS does not work very well in indoor spaces. We use bluetooth low energy technology
 to pinpoint the user's position and navigate them to their destination. This is especially useful
 in places like airports and big malls. We work with clients such as
