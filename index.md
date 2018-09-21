@@ -2,8 +2,8 @@
 layout: default
 ---
 
-I am first year PhD student at Boğaziçi University in Istanbul. I have finished my undergradute degree in 2015, masters degree
-in 2017 from the same school.
+I am first year PhD student at University of Edinburgh in Scotland. I received my undergradute degree in 2015, masters degree
+in 2017 from Boğaziçi University in Turkey.
 
 My master thesis was about preserving privacy in online social networks. The [paper](http://dl.acm.org/citation.cfm?id=2970035)
 and the [code](https://github.com/mas-boun/prinego) are available. We proposed and implemented different negotiation
@@ -17,7 +17,7 @@ My research interests are;
 *  social networks and computing
 *  health informatics
 
-I work as software engineer at [Pointr](http://www.pointrlabs.com) where we tackle the indoor navigation problem.
+I worked as software engineer at [Pointr](http://www.pointrlabs.com) for 1.5 years where we tackled the indoor navigation problem.
 As it is known, GPS does not work very well in indoor spaces. We use bluetooth low energy technology
 to pinpoint the user's position and navigate them to their destination. This is especially useful
 in places like airports and big malls. We work with clients such as
