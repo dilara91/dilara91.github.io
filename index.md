@@ -2,20 +2,14 @@
 layout: default
 ---
 
-I am first year PhD student at University of Edinburgh in Scotland. I received my undergradute degree in 2015, masters degree
-in 2017 from Boğaziçi University in Turkey.
+I am second year PhD student at University of Edinburgh in Scotland. I am working on privacy in social media. I am also interested in computational social science and natural language processing. I have a [blog](https://medium.com/@dilarakkl) where I relay my experiences doing PhD in Edinburgh, written in Turkish.
 
-My master thesis was about preserving privacy in online social networks. The [paper](http://dl.acm.org/citation.cfm?id=2970035)
+
+I received my undergradute degree in 2015, masters degree in 2017 from Boğaziçi University in Turkey. My master thesis was about preserving privacy in online social networks. The [paper](http://dl.acm.org/citation.cfm?id=2970035)
 and the [code](https://github.com/mas-boun/prinego) are available. We proposed and implemented different negotiation
 techniques before uploading a post to OSNs so that every party involved is comfortable with the result.
 You can have more information about the project 
 [here](http://mas.cmpe.boun.edu.tr/ontology-based-privacy-management-for-social-software/prinego-privacy-negotiation/).
-
-My research interests are;
-*  natural language processing
-*  multi-agent systems with focus on privacy and trust
-*  social networks and computing
-*  health informatics
 
 I worked as software engineer at [Pointr](http://www.pointrlabs.com) for 1.5 years where we tackled the indoor navigation problem.
 As it is known, GPS does not work very well in indoor spaces. We use bluetooth low energy technology
