@@ -4,7 +4,7 @@ layout: default
 
 1.  D. Keküllüoglu, N. Kökciyan, and P. Yolum. Preserving Privacy as Social Responsibility
 in Online Social Networks. Transactions on Internet Technology (TOIT).
-ACM, 2017. To appear.
+ACM, 2018.
 1.  D. Keküllüoglu, N. Kökciyan, and P. Yolum. Strategies for Privacy Negotiation in
 Online Social Networks. Proceedings of the 1st International Workshop on AI for
 Privacy and Security. ACM, 2016.
