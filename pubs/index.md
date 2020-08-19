@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-
+1.  D. Keküllüoglu, W. Magdy, and K. Vaniea. Analysing Privacy Leakage of Life Events on Twitter.
+In 12th ACM Conference on Web Science, pp. 287-294, 2020.
 1.  D. Keküllüoglu, N. Kökciyan, and P. Yolum. Preserving Privacy as Social Responsibility
 in Online Social Networks. Transactions on Internet Technology (TOIT).
 ACM, 2018.
