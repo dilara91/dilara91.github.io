@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am third year PhD student at School of Informatics, University of Edinburgh in Scotland, UK. My research interests are privacy on social media, computational social science, human computer interaction, natural language processing. I am working on privacy in social media, especially unintended disclosures and user understanding of privacy controls. I have a [blog](https://medium.com/@dilarakkl) where I relay my experiences doing PhD in Edinburgh, written in Turkish.
+I am third year PhD student at School of Informatics, University of Edinburgh in Scotland, UK. My research interests are privacy on social media, computational social science, human computer interaction, natural language processing. My current project is about privacy on social media, especially unintended disclosures and user understanding of privacy controls. I have a [blog](https://medium.com/@dilarakkl) where I relay my experiences doing PhD in Edinburgh, written in Turkish.
 
 
 I received my undergradute degree in 2015, masters degree in 2017 from Boğaziçi University in Turkey. My master thesis was about preserving privacy in online social networks. The [paper](http://dl.acm.org/citation.cfm?id=2970035)
