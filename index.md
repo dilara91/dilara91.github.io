@@ -18,6 +18,6 @@ in places like airports and big malls. I worked with clients such as
 [Gatwick Airport](https://techcrunch.com/2017/05/25/gatwick-airport-now-has-2000-beacons-for-indoor-navigation/) and
 [Harrods](https://www.standard.co.uk/shopping/can-t-find-prada-then-use-the-harrods-sat-nav-a3422056.html).
 
-My personal interests include learning new languages, cooking different cuisines, watching grandslam tennis, and reading fiction.
-I studied Japanese for five years and have acquired N2 in JLPT(Japanese Language Proficiency Test). I also studied abroad for one semester
+My personal interests include learning new languages, cooking different cuisines, watching grand slam tennis, and reading fiction.
+I studied Japanese for five years and have acquired N2 in JLPT (Japanese Language Proficiency Test). I also studied abroad for one semester in my undergradute program
 at Hanyang University in Seoul.
