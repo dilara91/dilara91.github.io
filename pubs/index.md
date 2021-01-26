@@ -2,7 +2,7 @@
 layout: default
 ---
 1.  **D. Keküllüoglu**, W. Magdy, and K. Vaniea. Analysing Privacy Leakage of Life Events on Twitter.
-In 12th ACM Conference on Web Science, pp. 287-294, 2020.
+In 12th ACM Conference on Web Science (WebSci), pp. 287-294, 2020.
 1.  N. Meng, **D. Keküllüoğlu**, K. Vaniea. Owning and Sharing: Privacy Perceptions of Smart Speaker Users. 
 In Proceedings of the ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW). 2021.
 1.  **D. Keküllüoglu**, N. Kökciyan, and P. Yolum. Preserving Privacy as Social Responsibility
